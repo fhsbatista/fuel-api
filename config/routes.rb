@@ -8,4 +8,7 @@ Rails.application.routes.draw do
     sessions: 'users/sessions',
     registrations: 'users/registrations'
   }
+  resources :vehicles
+  resources :destinations
+  resources :refuelings
 end

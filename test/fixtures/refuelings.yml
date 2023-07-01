@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  destination: one
+  vehicle: one
+  quantity: 9.99
+  date: 2023-07-01 14:22:54
+  hodometer: 9.99
+
+two:
+  destination: two
+  vehicle: two
+  quantity: 9.99
+  date: 2023-07-01 14:22:54
+  hodometer: 9.99
